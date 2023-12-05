@@ -26,4 +26,21 @@ Software versions used:
 In Python:
 
     pip install pandas
+    pip install scipy
+    pip install matplotlib
+    pip install seaborn
+    pip install xgboost
+    pip install shap
+    pip install scikit-learn
+
+## Version Numbers for Python Packages
+
+    * pandas: 2.0.3
+    * scipy: 1.11.1
+    * matplotlib: 3.7.2
+    * seaborn: 0.12.2
+    * xgboost: 2.0.2
+    * shap: 0.43.0
+    * scikit-learn: 1.3.0
+
 
