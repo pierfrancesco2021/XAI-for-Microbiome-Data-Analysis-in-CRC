@@ -26,6 +26,7 @@ Software versions used:
 In Python:
 
     pip install pandas
+    pip install numpy
     pip install scipy
     pip install matplotlib
     pip install seaborn
@@ -36,6 +37,7 @@ In Python:
 ## Version Numbers for Python Packages
 
     * pandas: 2.0.3
+    * numpy: 1.24.3
     * scipy: 1.11.1
     * matplotlib: 3.7.2
     * seaborn: 0.12.2
