@@ -24,6 +24,6 @@ Software versions used:
 
 # Installation Guide
 In Python:
-'''
-pip install pandas
-'''
+
+    pip install pandas
+
