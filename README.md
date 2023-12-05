@@ -25,6 +25,7 @@ Software versions used:
 In order to do the Centered Log-Ratio Transformation, scikit-bio package was used. This package is not available in the Windows environment. Therefore, a Linux machine was used only to perform this step of the analysis and create the normalized dataset.
 
 Software version used in the Linux environment:
+
     Python: 3.8.10
 
 # Installation Guide
