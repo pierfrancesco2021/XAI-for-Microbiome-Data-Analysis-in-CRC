@@ -22,6 +22,10 @@ Software versions used:
 
     Python: 3.11.5
 
+In order to do the Centered Log-Ratio Transformation, scikit-bio package was used. This package is not available in the Windows environment. Therefore, a Linux machine was used only to perform this step of the analysis and create the normalized dataset.
+Software version used in the Linux environment:
+    Python: 3.8.10
+
 # Installation Guide
 In Python:
 
@@ -33,8 +37,9 @@ In Python:
     pip install xgboost
     pip install shap
     pip install scikit-learn
+    pip install scikit-bio
 
-## Version Numbers for Python Packages
+## Version Numbers for Python Packages in the Windows environment
 
     * pandas: 2.0.3
     * numpy: 1.24.3
@@ -44,5 +49,11 @@ In Python:
     * xgboost: 2.0.2
     * shap: 0.43.0
     * scikit-learn: 1.3.0
+## Version Numbers for Python Packages in the Windows environment
+
+    * pandas: 1.5.3
+    * numpy: 1.22.2
+    * scikit-bio: 0.5.9
+    
 
 
