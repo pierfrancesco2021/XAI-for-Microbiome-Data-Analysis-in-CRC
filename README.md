@@ -40,6 +40,7 @@ In Python:
     pip install shap
     pip install scikit-learn
     pip install scikit-bio
+    pip install statannot
 
 ## Version Numbers for Python Packages in the Windows environment
 
@@ -51,7 +52,8 @@ In Python:
     * xgboost: 2.0.2
     * shap: 0.43.0
     * scikit-learn: 1.3.0
-## Version Numbers for Python Packages in the Windows environment
+    *statnnot: 0.2.3
+## Version Numbers for Python Packages in the Linux environment
 
     * pandas: 1.5.3
     * numpy: 1.22.2
