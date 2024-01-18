@@ -1,0 +1,20 @@
+Age
+ Porphyromonas
+ Peptostreptococcus
+ Lachnospira
+ Lachnospiraceae_NK4A136_group
+ Fusobacterium
+ Anaerostipes
+Gender_m
+ _Eubacterium__eligens_group
+ _Eubacterium__ventriosum_group
+ Parvimonas
+ Agathobacter
+ Defluviitaleaceae_UCG-011
+BMI
+ UCG-009
+ Erysipelotrichaceae_UCG-003
+ Slackia
+ Erysipelatoclostridium
+ Akkermansia
+ Colidextribacter

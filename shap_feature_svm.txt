@@ -1,0 +1,20 @@
+Age
+ Porphyromonas
+ Methanobrevibacter
+ _Ruminococcus__gnavus_group
+ Clostridia_UCG-014
+ RF39
+BMI
+ _Eubacterium__siraeum_group
+ Lachnospiraceae_NK4A136_group
+ Lactobacillus
+ Muribaculaceae
+ _Eubacterium__ventriosum_group
+ Akkermansia
+ Intestinibacter
+ Peptostreptococcus
+ Collinsella
+ CAG-352
+ Fusobacterium
+ Family_XIII_UCG-001
+ Marvinbryantia
