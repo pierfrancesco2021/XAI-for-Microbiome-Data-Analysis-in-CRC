@@ -21,6 +21,7 @@ Windows 11
 Software versions used:
 
     Python: 3.11.5
+    R: 4.3.2
 
 In order to do the Centered Log-Ratio Transformation, scikit-bio package was used. This package is not available in the Windows environment. Therefore, a Linux machine was used only to perform this step of the analysis and create the normalized dataset.
 
@@ -41,6 +42,10 @@ In Python:
     pip install scikit-learn
     pip install scikit-bio
     pip install statannot
+    
+In R-studio:
+    install.packages("stats")
+    
 
 ## Version Numbers for Python Packages in the Windows environment
 
@@ -53,6 +58,11 @@ In Python:
     * shap: 0.43.0
     * scikit-learn: 1.3.0
     *statnnot: 0.2.3
+    
+## Version Numbers for R Packages in the Windows environment
+
+    *stats: 4.3.2
+    
 ## Version Numbers for Python Packages in the Linux environment
 
     * pandas: 1.5.3
