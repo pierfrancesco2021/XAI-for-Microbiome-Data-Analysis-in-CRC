@@ -4,6 +4,7 @@
 Explainable Artificial Intelligence for
 Microbiome Data Analysis in Colorectal
 Cancer Biomarker Identification
+https://doi.org/10.3389/fmicb.2024.1348974
 ## Authors: 
 Pierfrancesco Novielli, Donato Romano, Michele Magarelli, Pierpaolo Di
 Bitonto, Domenico Diacono, Annalisa Chiatante, Giuseppe Lopalco,
